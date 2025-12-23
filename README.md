@@ -1,2 +1,2 @@
 # applied-ai-2026
-a course/compendium on applied ai in 2026 which shall cover ai from enterprise and consumer applications and problem solving point of view, experiments and optimization focused, so the learners or practitioners can get a compreheview on
+a course/compendium on applied ai in 2026 which shall cover ai from enterprise and consumer applications and problem solving point of view, experiments and optimization focused, so the learners or practitioners can get a compreheview on 1. how to approach a problem statement, 2. how to build a solution and bridge the SOTA models with the problem's constraints 3. optimization in terms of performance (empirical and systems)
